@@ -37,6 +37,8 @@ echo "Setting up services"
 systemctl --user --now enable $(cat $servicedir/services_user.txt)
 
 #
-cp -r $configdir/* ~/
+mkdir -p ~/.config
+cp -r $configdir/.config/* ~/.config/
+cp -r $configdir/.gtkrc-2.0 ~/
 #
 echo "DONE"
