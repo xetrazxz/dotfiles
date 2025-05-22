@@ -1,0 +1,13 @@
+jq
+7zip
+ffmpeg
+fd
+ripgrep
+fzf
+poppler
+zoxide
+imagemagick
+chafa
+mpv
+yt-dlp
+fastfetch

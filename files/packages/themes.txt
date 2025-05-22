@@ -1,0 +1,7 @@
+nwg-look
+qt5ct
+qt6ct
+kvantum-theme-catppuccin-git
+catppuccin-gtk-theme-mocha-revamped
+bibata-cursor-git
+tela-circle-icon-theme-nord

@@ -1,0 +1,9 @@
+base-devel
+pipewire
+pipewire-jack
+wireplumber
+pipewire-audio
+pipewire-jack
+brightnessctl
+tar
+xdg-user-dirs

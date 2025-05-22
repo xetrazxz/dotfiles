@@ -1,0 +1,10 @@
+hyprland
+xdg-desktop-portal-hyprland
+gtk2
+gtk3
+gtk4
+dunst
+kvantum
+qt5-wayland
+qt6-wayland
+

@@ -1,0 +1,12 @@
+waybar
+hyprpicker
+hypridle
+hyprlock
+cliphist
+wl-clipboard
+foot
+fish
+fuzzel
+swww
+cava
+yazi
